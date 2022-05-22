@@ -5,7 +5,7 @@
 
 ## 스프린트 1~2
 
-- [ ] 실습 : React.js, Next.js 튜토리얼 따라하기
+- [x] 실습 : React.js, Next.js 튜토리얼 따라하기
 - [ ] 이론
   - [ ] : HTML
   - [ ] : CSS
@@ -13,8 +13,8 @@
 
 #### React.js, Next.js 튜토리얼 학습
 
-- [ ] React 튜토리얼 : <https://ko.reactjs.org/tutorial/tutorial.html>
-- [ ] Next.js 튜토리얼 : <https://nextjs.org/learn/foundations/about-nextjs>
+- [x] React 튜토리얼 : <https://ko.reactjs.org/tutorial/tutorial.html>
+- [x] Next.js 튜토리얼 : <https://nextjs.org/learn/foundations/about-nextjs>
 
 ### JavaScript
 
